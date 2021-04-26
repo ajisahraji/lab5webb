@@ -6,66 +6,61 @@ TI.19.A.2
 Universitas Pelita Bangsa
 ```
 ## buat dokumen HTML dengan nama file lab5_javascript.html dan masukan coding
-![LANGKAH 1 membuat javascript](https://user-images.githubusercontent.com/22215113/116093562-fc3a0000-a6d0-11eb-98fd-d0ee348c9fee.png)
+![LANGKAH 1 membuat javascript]
 
 # Java Script Dasar
 ## Pemakaian Alert sebagai property window
-![LANGKAH 2 membuat alert box](https://user-images.githubusercontent.com/22215113/116093584-022fe100-a6d1-11eb-9ebb-b7969da6f301.png)
-
+![LANGKAH 2 membuat alert box]
 ## Pemakaian method dalam objek
-![LANGKAH 3 Pemakaian metod](https://user-images.githubusercontent.com/22215113/116093591-04923b00-a6d1-11eb-8398-4ad401b46be4.png)
-
+![LANGKAH 3 Pemakaian metod]
 ## Pemakaian Prompt
-![LANGKAH 4 Pemakaian prompt](https://user-images.githubusercontent.com/22215113/116093616-08be5880-a6d1-11eb-88c7-bfa80fba2141.png)
-
+![LANGKAH 4 Pemakaian prompt]
 ## Pembuatan fungsi dan cara pemanggilannya
-![LANGKAH 5 Pembuatan fungsi dan pemanggilan](https://user-images.githubusercontent.com/22215113/116093631-0b20b280-a6d1-11eb-82c2-82e12545251c.png)
+![LANGKAH 5 Pembuatan fungsi dan pemanggilan]
 
 # Dasar Pemrograman Di Javascript
 ## Operasi dasar Aritmatika
-![LANGKAH 6 Operasi dasar Aritmatika](https://user-images.githubusercontent.com/22215113/116093650-0e1ba300-a6d1-11eb-9dfa-f69fdb0b39f5.png)
+![LANGKAH 6 Operasi dasar Aritmatika]
 
 ## Seleksi kondisi (if..else)
 * Coding
-![LANGKAH 7 seleksi kondisi (coding)](https://user-images.githubusercontent.com/22215113/116093659-107dfd00-a6d1-11eb-9573-94a20c4f8a77.png)
+![LANGKAH 7 seleksi kondisi (coding)]
 
 * Output
 
-![LANGKAH 7 seleksi kondisi (hasil 1)](https://user-images.githubusercontent.com/22215113/116093759-268bbd80-a6d1-11eb-856f-91234517480b.png)
+![LANGKAH 7 seleksi kondisi (hasil 1)]
 
-![LANGKAH 7 seleksi kondisi (hasil 2)](https://user-images.githubusercontent.com/22215113/116093767-2986ae00-a6d1-11eb-904f-42f3608d1e67.png)
+![LANGKAH 7 seleksi kondisi (hasil 2)]
 
 ## Penggunaan operator switch untuk seleksi kondisi
 * Coding
-![LANGKAH 8 Penggunaan operator switch untuk seleksi kondisi (coding)](https://user-images.githubusercontent.com/22215113/116094011-5cc93d00-a6d1-11eb-9cda-170304e670ec.png)
-
+![LANGKAH 8 Penggunaan operator switch untuk seleksi kondisi (coding)]
 * Output
 
-![LANGKAH 8 Penggunaan operator switch untuk seleksi kondisi (hasil 1)](https://user-images.githubusercontent.com/22215113/116094069-6bafef80-a6d1-11eb-83c5-7248eb946f8d.png)
-
-![LANGKAH 8 Penggunaan operator switch untuk seleksi kondisi (hasil 2)](https://user-images.githubusercontent.com/22215113/116094080-6d79b300-a6d1-11eb-8e5b-0f9471cf9d22.png)
+![LANGKAH 8 Penggunaan operator switch untuk seleksi kondisi (hasil 1)]
+![LANGKAH 8 Penggunaan operator switch untuk seleksi kondisi (hasil 2)]
 
 # Pembuatan Form
 ## Form Input
 * Coding
-![LANGKAH 9 Form input (coding)](https://user-images.githubusercontent.com/22215113/116094109-74082a80-a6d1-11eb-96f6-84049980d45a.png)
+![LANGKAH 9 Form input (coding)]
 
 * Output
-![LANGKAH 9 Form input (hasil)](https://user-images.githubusercontent.com/22215113/116094143-7d919280-a6d1-11eb-8828-dfc8d446177e.png)
+![LANGKAH 9 Form input (hasil)]
 
 ## Form Button
 * Coding
-![LANGKAH 10 Form Button (coding)](https://user-images.githubusercontent.com/22215113/116094214-897d5480-a6d1-11eb-9d9f-727838f5868d.png)
+![LANGKAH 10 Form Button (coding)]
 
 * Output
-![LANGKAH 10 Form Button (HASIL)](https://user-images.githubusercontent.com/22215113/116094233-8da97200-a6d1-11eb-974a-b7b2c9dd6ae7.png)
+![LANGKAH 10 Form Button (HASIL)]
 
 ## HTML DOM
 * Coding
-![LANGKAH 11 HTML DOM (coding)](https://user-images.githubusercontent.com/22215113/116094283-9c902480-a6d1-11eb-9732-d44e8be8f611.png)
+![LANGKAH 11 HTML DOM (coding)]
 
 * Output
-![LANGKAH 11 HTML DOM (hasil)](https://user-images.githubusercontent.com/22215113/116094305-a0bc4200-a6d1-11eb-946e-7fa3da8ee846.png)
+![LANGKAH 11 HTML DOM (hasil)]
 
 # TUGAS
 ## 1. Buat script untuk melakukan validasi pada isian form.
@@ -114,7 +109,7 @@ Universitas Pelita Bangsa
 </body>
 </html>
 ```
-![TUGAS (coding form validasi)](https://user-images.githubusercontent.com/22215113/116094374-ad409a80-a6d1-11eb-9291-5c9ab4533c78.png)
+![TUGAS (coding form validasi)]
 
 * Buat halaman beranda `beranda.html`
 ```
@@ -136,7 +131,7 @@ Universitas Pelita Bangsa
 </body>
 </html>
 ```
-![TUGAS (coding Beranda)](https://user-images.githubusercontent.com/22215113/116094389-b0d42180-a6d1-11eb-8af8-4596c977a8ff.png)
+![TUGAS (coding Beranda)]
 
 * Tambahkan CSS untuk mempercantikan tampilan
 ```
@@ -181,10 +176,4 @@ body {
     padding: 5px 8px;
   }
 ```
-![TUGAS (coding CSS)](https://user-images.githubusercontent.com/22215113/116094407-b5003f00-a6d1-11eb-8a22-9271b635723c.png)
 
-* Hasil Akhir
-
-![TUGAS (Hasil 1)](https://user-images.githubusercontent.com/22215113/116094428-b893c600-a6d1-11eb-86e1-fccaa9a3a9f4.png)
-
-![TUGAS (Hasil 2)](https://user-images.githubusercontent.com/22215113/116094433-b92c5c80-a6d1-11eb-9111-aa5aab453d3c.png)
